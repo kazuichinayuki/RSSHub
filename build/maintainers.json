@@ -1091,6 +1091,9 @@
   "/cbnweek/": [
     "nczitzk"
   ],
+  "/cbpanet/dzp_news/:bigId?/:smallId?": [
+    "nczitzk"
+  ],
   "/ccac/news/:type/:lang?": [
     "linbuxiao"
   ],
@@ -7012,7 +7015,8 @@
   ],
   "/xiaoyuzhou/podcast/:id": [
     "hondajojo",
-    "jtsang4"
+    "jtsang4",
+    "pseudoyu"
   ],
   "/xiaozhuanlan/column/:id": [
     "TonyRL"
